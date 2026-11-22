@@ -28,13 +28,13 @@ to evaluate that code becomes more important, not less.
 
 - Buy the paperback: https://www.amazon.com/dp/B0HS4N9PR4
 - Buy the eBook (DRM free PDF and Ebook): https://leanpub.com/6502constructionset
-- Free chapters and the first build - "Hello World!": https://silicon-arcade.com
+- Free chapters and the first build - "Hello World!": [silicon-arcade.com](https://silicon-arcade.com/?utm_source=github&utm_medium=readme&utm_campaign=docs)
 - Code: https://github.com/Silicon-Arcade
 
 The Silicon Arcade website also has **episodes**: animated walkthroughs of some of
 the book's assembly listings, executing one instruction at a time with the
 registers, flags and memory changing as they run —
-[silicon-arcade.com/episodes](https://www.silicon-arcade.com/episodes/). I can build
+[silicon-arcade.com/episodes](https://www.silicon-arcade.com/episodes/?utm_source=github&utm_medium=readme&utm_campaign=docs). I can build
 more of these, so if there is a listing you would like to see run, [raise an
 issue](../../issues) on this repository and tell me which one.
 
